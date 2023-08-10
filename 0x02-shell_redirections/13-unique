@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --sort -n 1 | uniqu
+ls -s1 | uniqu
